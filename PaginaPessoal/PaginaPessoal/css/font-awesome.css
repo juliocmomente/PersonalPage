@@ -306,4 +306,7 @@ li[class^="fa-icon-"].fa-icon-large:before, li[class*=" fa-icon-"].fa-icon-large
 
 .fa-icon-user-md:before              { content: "\f200"; }
 
+.fa-icon-mobile-phone:before,
+.fa-icon-mobile:before {  content: "\f10b";}
+
 /* Localized */
